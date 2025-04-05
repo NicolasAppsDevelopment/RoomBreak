@@ -1,0 +1,2 @@
+Les boutons à appuyer sont affichés au mur (visible en appuyant sur la touche "L").
+Ils sont indiqués par des "X".
